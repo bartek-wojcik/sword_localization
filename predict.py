@@ -69,7 +69,6 @@ while True:
             line += '#,#'
         if i == 0:
             line += ','
-    line += '\n'
     print(line)
     index += 1
 
