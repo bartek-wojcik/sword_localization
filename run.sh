@@ -1,1 +1,1 @@
-python predict.py -i "$2"
+python3 predict.py -i "$2"
